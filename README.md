@@ -1,1 +1,1 @@
-# My-Road-To-ML-Mastery
+# My Road To ML Mastery
